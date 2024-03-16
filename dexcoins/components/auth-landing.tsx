@@ -48,3 +48,4 @@ export function authLanding() {
     </Card>
   )
 }
+export default authLanding
